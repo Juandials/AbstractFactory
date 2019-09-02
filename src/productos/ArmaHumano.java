@@ -14,4 +14,9 @@ public class ArmaHumano implements Arma{
     public String Estado() {
         return "Creando arma humano";
     }
+    public static String Arma(){
+        return "Espada";
+    }
+   
+    
 }

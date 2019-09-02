@@ -21,16 +21,18 @@ import fabricas.FabricaPersonaje;
  */
 public class AbstractFactory {
 
-    FabricaPersonaje fabrica;
-    Arma arma;
-    Armadura armadura;
-    Cuerpo cuerpo;
+    public FabricaPersonaje fabrica;
+    public Arma arma;
+    public Armadura armadura;
+    public Cuerpo cuerpo;
     int a;
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+       gui.gui.main(args);
+       /*
         Scanner sc = new Scanner(System.in);
         AbstractFactory exe = new AbstractFactory();
         do {
@@ -64,7 +66,7 @@ public class AbstractFactory {
         
         System.out.println(exe.cuerpo.Estado());
         System.out.println(exe.armadura.Estado());
-        System.out.println(exe.arma.Estado());    
+        System.out.println(exe.arma.Estado()); */   
     }
 
 }

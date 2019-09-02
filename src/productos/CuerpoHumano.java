@@ -14,4 +14,7 @@ public class CuerpoHumano implements Cuerpo{
     public String Estado() {
         return "Creando cuerpo humano";
     }
+    public static String Habilidad(){
+        return "Fuerza 20%, inteligencia 50%";
+    }
 }

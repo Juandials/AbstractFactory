@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/fabricas/FabricaHumano.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/Arma.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/fabricas/FabricaElfo.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/abstractfactory/AbstractFactory.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/fabricas/FabricaEnano.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/CuerpoEnano.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/fabricas/FabricaOrco.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/ArmaduraElfo.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/Cuerpo.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/ArmaduraOrco.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/CuerpoOrco.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/ArmaOrco.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/ArmaduraHumano.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/ArmaElfo.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/CuerpoElfo.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/ArmaEnano.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/fabricas/FabricaPersonaje.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/Armadura.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/ArmaduraEnano.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/CuerpoHumano.java</file>
+            <file>file:/C:/Users/judil/Documents/NetBeansProjects/AbstractFactory/src/productos/ArmaHumano.java</file>
+        </group>
+    </open-files>
+</project-private>

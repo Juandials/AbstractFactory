@@ -14,4 +14,7 @@ public class CuerpoElfo implements Cuerpo{
     public String Estado() {
         return "Creando cuerpo elfo";
     }
+    public static String Habilidad(){
+        return "Comunicación con la naturaleza";
+    }
 }

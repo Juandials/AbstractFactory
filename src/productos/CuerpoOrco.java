@@ -14,4 +14,7 @@ public class CuerpoOrco implements Cuerpo{
     public String Estado() {
         return "Creando cuerpo orco";
     }
+    public static String Habilidad(){
+        return "Fuerza bruta";
+    }
 }

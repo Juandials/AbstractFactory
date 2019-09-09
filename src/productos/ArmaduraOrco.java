@@ -14,4 +14,7 @@ public class ArmaduraOrco implements Armadura{
     public String Estado() {
         return "Creando armadura orco";
     }
+    public static String Armadura(){
+        return "Irrompible, 200% de resistencia";
+    }
 }

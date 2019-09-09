@@ -15,7 +15,7 @@ public class ArmaHumano implements Arma{
         return "Creando arma humano";
     }
     public static String Arma(){
-        return "Espada";
+        return "Espada bañada en plata de las tinieblas";
     }
    
     

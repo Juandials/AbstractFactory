@@ -15,6 +15,6 @@ public class ArmaduraHumano implements Armadura{
         return "Creando armadura humano";
     }
      public static String Armadura(){
-        return "Escudo y cota de malla y refuerzo en acero";
+        return "Armadura de Asgard";
     }
 }

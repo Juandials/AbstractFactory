@@ -14,4 +14,7 @@ public class ArmaOrco implements Arma{
     public String Estado() {
         return "Creando arma orco";
     }
+    public static String Arma(){
+        return "Hacha forjada por los dioses nordicos";
+    }
 }

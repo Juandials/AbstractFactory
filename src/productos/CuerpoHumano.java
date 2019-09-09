@@ -15,6 +15,6 @@ public class CuerpoHumano implements Cuerpo{
         return "Creando cuerpo humano";
     }
     public static String Habilidad(){
-        return "Fuerza 20%, inteligencia 50%";
+        return "Ofensivo y débil";
     }
 }

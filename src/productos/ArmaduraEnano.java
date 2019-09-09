@@ -14,4 +14,7 @@ public class ArmaduraEnano implements Armadura{
     public String Estado() {
         return "Creando armadura enano";
     }
+    public static String Armadura(){
+        return "Hecha por los mejores herreros del pueblo";
+    }
 }
